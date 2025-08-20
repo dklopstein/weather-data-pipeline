@@ -1,3 +1,4 @@
 .env
 example.json
 weather.db
+__pycache__/
